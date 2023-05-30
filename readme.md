@@ -40,17 +40,17 @@
 
 ## 사이트 설계
 - 메뉴설계
-![메뉴설계](./img/menu1.PNG "메뉴설계마인드맵")
-![메뉴설계도](./img/menu2.PNG "메뉴설계도")
+![메뉴설계](./img/menu1.png "메뉴설계마인드맵")
+![메뉴설계도](./img/menu2.png "메뉴설계도")
 
 - 흐름설계
-![흐름설계](./img/floudui.PNG "흐름설계도")
+![흐름설계](./img/floudui.png "흐름설계도")
 
 <br>
 
 ## 물리적 설계
 -물리적ERD
-![물리적ERD](./img/perd.PNG "물리적 ERD")
+![물리적ERD](./img/perd.png "물리적 ERD")
 
 <br>
 
