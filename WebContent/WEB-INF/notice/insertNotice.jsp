@@ -46,7 +46,7 @@ response.setContentType("text/html; charset=utf-8");
 					</tr>
 					<tr>
 						<td colspan="2">
-							<input class="input" type="submit" value="글쓰기" class="button is-light">
+							<input type="submit" value="글쓰기" class="button is-light">
 							<a href="${path1 }/NoticeList.do" class="button is-light">글 목록</a>				
 						</td>
 					</tr>

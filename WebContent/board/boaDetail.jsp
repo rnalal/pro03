@@ -25,7 +25,13 @@
 				<tr>
 					<td colspan="2">
 						<img src='${path1 }/board/${boa.pic1 }' alt="${boa.btitle }"/>
+						<img src='${path1 }/board/${boa.pic2 }' alt="${boa.btitle }"/>
+						<img src='${path1 }/board/${boa.pic3 }' alt="${boa.btitle }"/>
+						<img src='${path1 }/board/${boa.pic4 }' alt="${boa.btitle }"/>
+						<img src='${path1 }/board/${boa.pic5 }' alt="${boa.btitle }"/>
 					</td>
+					<br>
+					<br>
 				</tr>
 				<tr>
 					<th>장소명</th>
