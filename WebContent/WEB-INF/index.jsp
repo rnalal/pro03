@@ -42,21 +42,6 @@
 			    </div>
 			  </div>
 			</div>
-			<!-- <div class="">
-			  <div class="">
-			    <figure class="">
-			      <img src="./img/mainbg01.jpg" alt="">
-			    </figure>
-			  </div>
-			  <div class="flex-caption">
-			  <h3>가평군이 자랑하는 가평 8경</h3>
-			  <h2>제8경 유/명/농/계</h2>
-			  <hr>
-			  <p>
-			  	설악면 가일리에 위치한 해발 864m의 산으로 기암괴석의 계곡에 끊임없이 흐르는 물로 등산객의 애호를 받고 있으며<br>이곳의 계곡은 박쥐소, 용소, 마당소 등 유리알같은 맑은소와 어우러져 장관을 이룬다.
-			  </p>
-			  </div>
-			</div> -->
 			<div class="tile is-ancestor">
 			  <div class="tile is-vertical is-8">
 			    <div class="tile">
@@ -119,19 +104,6 @@
 			    </article>
 			  </div>
 			</div>
-<!-- 	<table class="table is-fullwidth">
-		<thead>
-			<tr>
-				<th><a href="https://www.visitkorea.or.kr/"><img src="./img/logo/logo_bottom_01.gif"></a></th>	
-				<th><a href="https://gto.or.kr/main.php"><img src="./img/logo/logo_bottom_02.gif"></a></th>
-				<th><a href="https://blog.naver.com/ecopiagp"><img src="./img/logo/logo_bottom_03.png"></a></th>
-				<th><a href="https://www.musicvillage1939.com/"><img src="./img/logo/logo_bottom_4.png"></a></th>	
-				<th><a href="https://www.jaraisland.or.kr/jara/main/main.php"><img src="./img/logo/logo_bottom_05.gif"></a></th>
-				<th><a href="http://gfood100.com/"><img src="./img/logo/logo_bottom_06.jpg"></a></th>
-				<th><a href="http://www.gpnara.kr/"><img src="./img/logo/logo_bottom_07.jpg"></a></th>
-			</tr>
-		</thead>
-	</table> -->
 		</div>
 	</section>
 </div>

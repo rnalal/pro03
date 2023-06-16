@@ -1,0 +1,52 @@
+-- 회원 user1
+create table user1 (
+id varchar(20) primary key not null,
+pw varchar(100) not null,
+name varchar(20),
+tel varchar(13),
+addr varchar(300),
+email varchar(200), 
+udate date default (current_date));
+
+
+-- 리뷰 review
+create table review (
+rnum varchar(10) primary key not null,
+rtitle varchar(100),
+rcontent varchar(500),
+rauthor varchar(20),
+rdate date default (current_date));
+
+
+-- Q&A qna
+create table qna (
+qnum varchar(10) primary key not null,
+qtitle varchar(100),
+qcontent varchar(500),
+qauthor varchar(20),
+qdate date default (current_date));
+
+
+-- 공지사항 notice
+create table notice (
+nnum varchar(10) primary key not null,
+ntitle varchar(100),
+ncontent varchar(500),
+nauthor varchar(20),
+file1 varchar(100),
+ndate date default (current_date) );
+
+
+-- 게시판 board
+create table board (
+bnum varchar(10) primary key not null,
+btitle varchar(100),
+bcontent varchar(500),
+bauthor varchar(20),
+bdate date default (current_date),
+pic1 varchar(100),
+pic2 varchar(100),
+pic3 varchar(100),
+pic4 varchar(100),
+pic5 varchar(100) );
+

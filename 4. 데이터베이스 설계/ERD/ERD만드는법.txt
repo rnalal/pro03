@@ -1,0 +1,6 @@
+ERD만들기
+
+1. ctrl+R
+2. DB선택
+3. datebases 선택
+4. 생성

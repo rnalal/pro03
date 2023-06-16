@@ -27,13 +27,15 @@
 					<tr>
 						<th><label for="id">아이디</label></th>
 						<td>
-							<input class="input" type="text" name="id" id="id" maxlength="15" title="15자 내로 작성" placeholder="15자 내로 작성" class="form-control" required autofocus>
+							<input class="input" type="text" name="id" id="id" maxlength="15" 
+							title="15자 내로 작성" placeholder="15자 내로 작성" class="form-control" required autofocus>
 						</td>
 					</tr>
 					<tr>
 						<th><label for="pw">비밀번호</label></th>
 						<td>
-							<input class="input" type="password" name="pw" id="pw" maxlength="15" title="15자 내로 작성" placeholder="15자 내로 작성" class="form-control" required>
+							<input class="input" type="password" name="pw" id="pw" maxlength="15" 
+							title="15자 내로 작성" placeholder="15자 내로 작성" class="form-control" required>
 						</td>
 					</tr>
 					<tr>
